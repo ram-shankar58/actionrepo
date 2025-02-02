@@ -8,7 +8,7 @@ on:
 
 jobs:
   test:
-    runs-on: 
+    runs-on:
     steps:
       - name: 23f1002296@ds.study.iitm.ac.in
         run: echo "Hello, world!"
